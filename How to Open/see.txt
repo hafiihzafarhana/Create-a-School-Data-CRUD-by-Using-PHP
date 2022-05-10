@@ -1,0 +1,8 @@
+We are using template from Crafty Dwarf
+
+For the first time open:
+1 Open folder html&css
+2 Open folder pages
+3 Open folder dashboard
+
+Actually, You should have localhost
